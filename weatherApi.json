@@ -1,0 +1,41 @@
+{
+  "location": {
+    "name": "Aktobe",
+    "region": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.98,
+    "lon": 78.8,
+    "tz_id": "Asia/Almaty",
+    "localtime_epoch": 1664116660,
+    "localtime": "2022-09-25 20:37"
+  },
+  "current": {
+    "last_updated_epoch": 1664116200,
+    "last_updated": "2022-09-25 20:30",
+    "temp_c": 19.0,
+    "temp_f": 66.2,
+    "is_day": 0,
+    "condition": {
+      "text": "Clear",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+      "code": 1000
+    },
+    "wind_mph": 4.3,
+    "wind_kph": 6.8,
+    "wind_degree": 322,
+    "wind_dir": "NW",
+    "pressure_mb": 1014.0,
+    "pressure_in": 29.93,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 30,
+    "cloud": 2,
+    "feelslike_c": 19.0,
+    "feelslike_f": 66.2,
+    "vis_km": 10.0,
+    "vis_miles": 6.0,
+    "uv": 1.0,
+    "gust_mph": 6.7,
+    "gust_kph": 10.8
+  }
+}
